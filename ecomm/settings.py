@@ -105,7 +105,10 @@ DATABASES = {
         'PORT':3306
     }
 }
-
+# mysql://root:YgpMwzQzJsCLbDwSvGgTjytfAaCQgnqj@shortline.proxy.rlwy.net:48276/railway
+# 3306
+# YgpMwzQzJsCLbDwSvGgTjytfAaCQgnqj
+# railway
 
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
